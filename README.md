@@ -1,17 +1,3 @@
 # Voice Commands Tools
 
-## About
-
-A Python script to shut down a computer using voice commands. It's time for you to put it to the test!
-
-## Prerequisites 
-
-- Speech Recognition module
-- Pyttsx3 module
-
-These can be installed with `pip install SpeechRecognition
-pip install pyttsx3`.
-
-## Implementation
-
-Run `python3 Shut_Down_PC_Voice_Commands.py` in a terminal if you have Python 3.
+A set of Python scripts greatly improving the way you use your computers. No need to lift a finger - your voice can do all the work!
