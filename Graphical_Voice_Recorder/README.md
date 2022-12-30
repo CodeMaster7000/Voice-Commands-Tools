@@ -11,3 +11,7 @@ A graphical voice recorder coded in Python, using the `Tkinter` module.
 - `Soundfile` module
 
 These can be installed with `pip install sounddevice` and `pip install soundfile`.
+
+## Implementation
+
+Run `python3 Recorder.py`
