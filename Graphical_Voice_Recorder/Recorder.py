@@ -14,3 +14,4 @@ Label(master, text=" Voice Recorder: "
 b = Button(master, text="Start", command=Voice_rec)
 b.grid(row=0, column=2, columnspan=2, rowspan=2,
        padx=5, pady=5)
+mainloop()
