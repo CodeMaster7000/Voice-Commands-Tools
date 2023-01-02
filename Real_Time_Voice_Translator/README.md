@@ -18,3 +18,7 @@ These can be installed respectively with:
 - `pip install googletrans`
 - `pip install gTTs`
   `pip install gTTS-token`
+
+## Implementation
+
+Run `python3 Translator.py` in a terminal if you have Python 3.
