@@ -1,4 +1,4 @@
-# Shut down your PC with Voice Commands
+# Shut down PC with Voice Commands
 
 ## About
 
