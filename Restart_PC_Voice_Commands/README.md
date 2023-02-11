@@ -1,4 +1,4 @@
-# Restart your Computer with Voice Commands
+# Restart PC with Voice Commands
 
 ## About
 
