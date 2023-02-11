@@ -1,8 +1,8 @@
-# Voice Commands Tools
+# Shut down your PC with Voice Commands
 
 ## About
 
-A Python script to shut down a computer using voice commands. It's time for you to put it to the test!
+A Python script to shut down your computer using voice commands. It's time for you to put it to the test!
 
 ## Prerequisites 
 
